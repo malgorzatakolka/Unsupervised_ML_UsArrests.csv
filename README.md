@@ -4,9 +4,9 @@ title: Unsupervised machine learning for UsArrests.csv
 This project is designed to analyse the correlations between arrests in different states and build an unsupervised model separating states into groups with 
 different crime rates. 
 
-* The project shows correlation between arrests for murder, rape and assauls and the number of urbanized population in all states of US. 
+* The project shows correlation between arrests for murder, rape and assaults and the number of urbanized population in all states of US. 
 * It is based on comma separated values file named UsArrests.csv attached to this repo. 
-* It makes use of PCA(principal component analysis to reduce the number of dimensions. 
+* It makes use of PCA(principal component analysis) to reduce the number of dimensions. 
 * It uses hierarchical clustering and K-means clustering models to cluster states into different groups.
 
 **Table of content**
